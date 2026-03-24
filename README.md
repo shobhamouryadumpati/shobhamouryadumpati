@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Shobha Mourya Dumpati
 
-<!--
-**shobhamouryadumpati/shobhamouryadumpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GIS Researcher • Remote Sensing Specialist • Earth Observation Developer**
 
-Here are some ideas to get you started:
+I work at **Fugro UK** as a Hydrographic Data Processor, focusing on Marine Site Characterisation.  
+Alongside my professional role, I am an **Independent Researcher (FGS, FRGS)** specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Earth Observation  
+- Satellite Remote Sensing  
+- GIS & Geospatial Analysis  
+- Web‑based Geospatial Development  
+- Hydrography & UAS/UAV Operations  
+
+### 🔭 Current Research
+I’m developing fusion of SWOT Ka-Radar and ICESat-2 Photon-Counting Altimetry.
+
+### 🌍 Location
+Aberdeen, Scotland, United Kingdom
+
+### 🔗 Links
+- Website: https://shobhamouryadumpati.com/
+- ResearchGate: https://www.researchgate.net/profile/Shobha-Dumpati?ev=hdr_xprf
+- ORCID: https://orcid.org/0009-0006-7086-7058
+- Google Scholar: scholar.google.co.uk/citations?user=u40c4-gAAAAJ&hl=en&authuser=1 
