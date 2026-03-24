@@ -21,4 +21,4 @@ Aberdeen, Scotland, United Kingdom
 - Website: https://shobhamouryadumpati.com/
 - ResearchGate: https://www.researchgate.net/profile/Shobha-Dumpati?ev=hdr_xprf
 - ORCID: https://orcid.org/0009-0006-7086-7058
-- Google Scholar: scholar.google.co.uk/citations?user=u40c4-gAAAAJ&hl=en&authuser=1 
+- Google Scholar: [scholar.google.co.uk/citations?user=u40c4-gAAAAJ&hl=en&authuser=1 ](https://scholar.google.co.uk/citations?user=u40c4-gAAAAJ&hl=en&authuser=1)
