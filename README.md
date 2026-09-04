@@ -2,7 +2,7 @@
 
 **GIS Researcher • Remote Sensing Specialist • Earth Observation Developer**
 
-I work as a Hydrographic Data Processor, focusing on Marine Site Characterisation.  
+I work as a Geophysical Data Processor, focusing on Marine Site Characterisation.  
 Alongside my professional role, I am an **Independent Researcher (FGS, FRGS)** specializing in:
 
 - Earth Observation  
